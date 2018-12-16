@@ -49,6 +49,8 @@ Otherwise, if the balance of the cash register is negative, the business will be
 
 ### Trailer
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V5RyEadOXCY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Controls
 
 ```
