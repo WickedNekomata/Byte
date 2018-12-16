@@ -1,6 +1,6 @@
 # BYTE
 
-Byte is a management game currently being developed by Sandra Alvarez and Guillem Costa for the AI subject.
+Byte is a management game developed by Sandra Alvarez and Guillem Costa for the AI subject.
  
 In Byte, you take the role of the manager of a burger fast food restaurant (aka diner).
 Will you be able to bring the success to your new business or will you throw in the towel? Play with the likes!
