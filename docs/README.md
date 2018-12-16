@@ -5,6 +5,8 @@ Byte is a management game developed by [Sandra Alvarez](https://github.com/Sandr
 In Byte, you take the role of the manager of a burger fast food restaurant (aka diner).
 Will you be able to bring the success to your new business or will you throw in the towel? Play with the likes!
 
+<img src="Like.png" width="400"><br>
+
 > Download the latest release [HERE](https://github.com/WickedNekomata/Byte/releases)
 
 ## The team
@@ -41,8 +43,6 @@ Otherwise, if the balance of the cash register is negative, the business will be
 - An extra character for the tutorial.
 - 3 different screens: Main Menu, Scene and End Screen.
 - Lots of particles and sound effects.
-
-<iframe width="560" height="315" src="https://github.com/WickedNekomata/Byte/blob/master/docs/Like.png" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Trailer
 
