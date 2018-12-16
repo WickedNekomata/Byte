@@ -7,9 +7,9 @@ Will you be able to bring the success to your new business or will you throw in 
 
 For a detailed description about the game as well as of the behaviour trees being used, please check our repository:
 
-- <b>BitBucket repository</b>: https://sandruski@bitbucket.org/wickednekomata/byte.git
-- <b>BitBucket wiki</b>: https://bitbucket.org/wickednekomata/byte/wiki/Home
-- <b>BitBucket BEHAVIOUR TREES (wiki page)</b>: https://bitbucket.org/wickednekomata/byte/wiki/Behaviour%20Trees
+- [BitBucket repository](https://sandruski@bitbucket.org/wickednekomata/byte.git)
+- [BitBucket wiki](https://bitbucket.org/wickednekomata/byte/wiki/Home)
+- [BitBucket BEHAVIOUR TREES (wiki page)](https://bitbucket.org/wickednekomata/byte/wiki/Behaviour%20Trees)
 
 > Download the latest release [HERE](https://github.com/WickedNekomata/Byte/releases)
 
@@ -43,7 +43,8 @@ For a detailed description about the game as well as of the behaviour trees bein
 
 - Unity 2018.1.6f1
 - NodeCanvas for Unity
-- Bitbucket and Sourcetree
+- Bitbucket
+- Sourcetree
 
 ### Assets
 
