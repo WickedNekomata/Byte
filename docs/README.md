@@ -33,7 +33,7 @@ For a detailed description about the game as well as of the behaviour trees bein
 - Click: 
 	- On a button: perform an specific action
 	- On a client: open their own menu to order food for them
-	- On a box: buy a cash register (with a waitress) or a cooker (with a cook)
+	- On a box: buy a cash register (with a waitress), a cooker (with a cook) or tables and stools.
 - F1: restart game
 ```
 
