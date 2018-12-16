@@ -42,6 +42,8 @@ Otherwise, if the balance of the cash register is negative, the business will be
 - 3 different screens: Main Menu, Scene and End Screen.
 - Lots of particles and sound effects.
 
+<iframe width="560" height="315" src="waitress.png" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Trailer
 
 ### Controls
