@@ -60,7 +60,9 @@ Otherwise, if the balance of the cash register is negative, the business will be
 	- On a button: perform an specific action
 	- On a client: open their own menu to order food for them
 	- On a box: buy a cash register (with a waitress), a cooker (with a cook) or tables and stools.
-- F1: restart game
+- F1: restart game (from the game screen)
+- F2: go to the end screen (win/lose) (from the game screen)
+- F3: go to the main menu (from the game screen)
 ```
 
 ### Tools used
