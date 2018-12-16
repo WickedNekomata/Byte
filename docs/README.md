@@ -17,11 +17,9 @@ For a detailed description about the game as well as of the behaviour trees bein
 
 <i>Alvarez Sandra, code and design:</i>
 - [GitHub Account](https://github.com/datBeQuiet)
-- [Bitbucket Account](https://github.com/WickedNekomata/Byte/releases)
 	
 <i>Costa Guillem, code and design:</i>
 - [GitHub Account](https://github.com/Sandruski)
-- [Bitbucket Account](https://github.com/WickedNekomata/Byte/releases)
 
 ## About the game
 
@@ -49,8 +47,8 @@ For a detailed description about the game as well as of the behaviour trees bein
 ### Assets
 
 Models are from Simple Assets, available in the Unity Asset Store.
-Most of UI Elements are from noseque, available in the Unity Asset Store for free.
-The rest of the assets (UI, music and sounds) are royalty-free.
+Most of UI Elements are from "Fantasy Wooden GUI free", available in the Unity Asset Store for free.
+Music and Sounds are from FreeSounds.com.
 
 ## License
 ```
