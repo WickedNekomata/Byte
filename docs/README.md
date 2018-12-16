@@ -49,7 +49,7 @@ Otherwise, if the balance of the cash register is negative, the business will be
 
 ### Trailer
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rEFRjDh_ESQ&t=1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/rEFRjDh_ESQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Controls
 
