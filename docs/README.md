@@ -75,7 +75,9 @@ The game uses our <b>own steering behaviours</b> (using [Recast](https://github.
 ### Assets
 
 Models are from Simple Assets, available in the Unity Asset Store.
-Ui is from "Fantasy Wooden GUI Free", available for free in the Unity Asset Store.
+
+UI is from "Fantasy Wooden GUI Free", available for free in the Unity Asset Store.
+
 The rest of the assets (music and sounds) are royalty-free.
 
 ## License
