@@ -1,21 +1,35 @@
 # BYTE
 
-Byte is a management game currently being developed by Sandra Alvarez and Guillem Costa for the AI subject.
+Byte is a management demo-game developed by <b>Sandra Alvarez</b> and <b>Guillem Costa</b> for the AI subject under the supervision of the lecturer <b>Ricard Pillosu</b>. The game uses our <b>own steering behaviours</b> (using Recast to generate the path) and Node Canvas for the <b>behaviour trees</b>.
  
 In Byte, you take the role of the manager of a burger fast food restaurant (aka diner).
 Will you be able to bring the success to your new business or will you throw in the towel? Play with the likes!
 
 For a detailed description about the game as well as of the behaviour trees being used, please check our repository:
 
-- BitBucket repository: https://sandruski@bitbucket.org/wickednekomata/byte.git
-- BitBucket wiki: https://bitbucket.org/wickednekomata/byte/wiki/Home
-- BitBucket BEHAVIOUR TREES (wiki page): https://bitbucket.org/wickednekomata/byte/wiki/Behaviour%20Trees
+- <b>BitBucket repository</b>: https://sandruski@bitbucket.org/wickednekomata/byte.git
+- <b>BitBucket wiki</b>: https://bitbucket.org/wickednekomata/byte/wiki/Home
+- <b>BitBucket BEHAVIOUR TREES (wiki page)</b>: https://bitbucket.org/wickednekomata/byte/wiki/Behaviour%20Trees
+
+> Download the latest release HERE
+
+## The Team
+
+<i>Alvarez Sandra, code and design:</i>
+
+	- Github Account:
+	- Bitbucket Account:
+	
+<i>Costa Guillem, code and design:</i>
+
+	- Github Account:
+	- Bitbucket Account:
 
 ## About the game
 
 ### Objective
 
-Earn the most likes without going bankrupt.
+Earn 15 likes without going bankrupt.
 
 Be careful with the mood of the clients. Several things can happen:
 - If they are ordered food being happy, they will pay and leave a LIKE!
@@ -35,7 +49,6 @@ There are 3 types of ingredients to cook 3 types of meals. Each of them has a di
 - Cake: it makes clients instantly happy.
 
 Each type of meal can only be cooked by a cook specialised in its type in a specialised cooker.
-IMPORTANT: you should not buy Nuggets nor Cake without having bought first a nuggets cooker and/or a cakes cooker, since no cooks will cook them.
 
 *The ingredients bought appear in a menu on the bottom of the screen. E.g.: cake 1/10: you have cooked 1 cake and you have 10 ingredients to cook 10 more cakes.
 
@@ -70,7 +83,7 @@ You can only order meals that you have cooked.
 Models are from Simple Assets, available in the Unity Asset Store. The rest of the assets (UI, music and sounds) are royalty-free.
 
 ## License
-
+```
 MIT License
 
 Copyright (c) 2018 WickedNekomata (Sandra Alvarez & Guillem Costa)
@@ -92,3 +105,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
