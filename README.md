@@ -22,7 +22,7 @@ Website:
 
 ### Objective
 
-Earn 15 likes without going bankrupt.
+Reach 15 likes without going bankrupt.
 
 Be careful with the mood of the clients. Several things can happen:
 - If they are ordered food being happy, they will pay and leave a LIKE!

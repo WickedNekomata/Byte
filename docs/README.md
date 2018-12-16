@@ -1,19 +1,13 @@
 # BYTE
 
-Byte is a management demo-game developed by [Sandra Alvarez](https://github.com/Sandruski) and [Guillem Costa](https://github.com/datBeQuiet) for the AI subject under the supervision of the lecturer <b>Ricard Pillosu</b>. The game uses our <b>own steering behaviours</b> (using [Recast](https://github.com/recastnavigation/recastnavigation) to generate the path) and [Node Canvas](http://nodecanvas.paradoxnotion.com/) for the <b>behaviour trees</b>.
- 
-In Byte, you take the role of the manager of a burger fast food restaurant.
+Byte is a management game developed by [Sandra Alvarez](https://github.com/Sandruski) and [Guillem Costa](https://github.com/datBeQuiet) for the AI subject under the supervision of the lecturer <b>Ricard Pillosu</b>. 
+
+In Byte, you take the role of the manager of a burger fast food restaurant (aka diner).
 Will you be able to bring the success to your new business or will you throw in the towel? Play with the likes!
-
-For a detailed description about the game as well as of the behaviour trees being used, please check our repository:
-
-- [BitBucket repository](https://sandruski@bitbucket.org/wickednekomata/byte.git)
-- [BitBucket wiki](https://bitbucket.org/wickednekomata/byte/wiki/Home)
-- [BitBucket BEHAVIOUR TREES (wiki page)](https://bitbucket.org/wickednekomata/byte/wiki/Behaviour%20Trees)
 
 > Download the latest release [HERE](https://github.com/WickedNekomata/Byte/releases)
 
-## The Team
+## The team
 
 ![](team_photo.JPG)
 
@@ -24,6 +18,29 @@ For a detailed description about the game as well as of the behaviour trees bein
 - [GitHub Account](https://github.com/Sandruski)
 
 ## About the game
+
+### Description
+
+The objective of the game is to reach 15 likes without going bankrupt. To achieve it...
+
+- Order meals for the clients.
+- Buy different ingredients for the cooks, so they can cook them into meals.
+- The waitresses will serve the meals to the clients.
+- Buy different types of cookers and buy more cash registers. More cooks and waitresses will come!
+- Buy new furniture for the diner (tables and stools). More clients will come!
+
+At the end of the day, the balance of the cash register must be positive. 
+Remember that the business has fixed costs (local fix costs and workers' salary)! 
+Otherwise, if the balance of the cash register is negative, the business will be forced to close and the game will be over.
+
+### Features
+
+- 3 different types of meals with different effects: hamburguer with chips, nuggets and cake.
+- 3 different types of AI agents: clients, waitresses and cooks.
+- 4 moods for the clients: happy, neutral, annoyed and angry.
+- An extra character for the tutorial.
+- 3 different screens: Main Menu, Scene and End Screen.
+- Lots of particles and sound effects.
 
 ### Trailer
 
@@ -46,13 +63,14 @@ For a detailed description about the game as well as of the behaviour trees bein
 - Bitbucket
 - Sourcetree
 
+The game uses our <b>own steering behaviours</b> (using [Recast](https://github.com/recastnavigation/recastnavigation) to generate the path) and [Node Canvas](http://nodecanvas.paradoxnotion.com/) for the <b>behaviour trees</b>.
+ 
 ### Assets
 
-Models are from Simple Assets, available in the Unity Asset Store.
-Most of UI Elements are from "Fantasy Wooden GUI free", available in the Unity Asset Store for free.
-Music and Sounds are from FreeSounds.com.
+Models are from Simple Assets, available in the Unity Asset Store. The rest of the assets (UI, music and sounds) are royalty-free.
 
 ## License
+
 ```
 MIT License
 
