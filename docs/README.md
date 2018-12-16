@@ -15,6 +15,8 @@ For a detailed description about the game as well as of the behaviour trees bein
 
 ## The Team
 
+![](team_photo.JPG)
+
 <i>Alvarez Sandra, code and design:</i>
 - [GitHub Account](https://github.com/datBeQuiet)
 	
