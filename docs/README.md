@@ -1,6 +1,6 @@
 # BYTE
 
-Byte is a management demo-game developed by <b>Sandra Alvarez</b> and <b>Guillem Costa</b> for the AI subject under the supervision of the lecturer <b>Ricard Pillosu</b>. The game uses our <b>own steering behaviours</b> (using [Recast](https://github.com/recastnavigation/recastnavigation) to generate the path) and [Node Canvas](http://nodecanvas.paradoxnotion.com/) for the <b>behaviour trees</b>.
+Byte is a management demo-game developed by [Sandra Alvarez](https://github.com/Sandruski) and [Guillem Costa](https://github.com/datBeQuiet) for the AI subject under the supervision of the lecturer <b>Ricard Pillosu</b>. The game uses our <b>own steering behaviours</b> (using [Recast](https://github.com/recastnavigation/recastnavigation) to generate the path) and [Node Canvas](http://nodecanvas.paradoxnotion.com/) for the <b>behaviour trees</b>.
  
 In Byte, you take the role of the manager of a burger fast food restaurant.
 Will you be able to bring the success to your new business or will you throw in the towel? Play with the likes!
