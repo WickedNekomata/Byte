@@ -39,9 +39,9 @@ Otherwise, if the balance of the cash register is negative, the business will be
 
 - 3 different types of meals with different effects: hamburguer with chips, nuggets and cake.<br>
 <img src="burguer.png" width="50"> <img src="food.png" width="50"> <img src="cake.png" width="50">
-- 3 different types of AI agents: clients, waitresses and cooks.
+- 3 different types of AI agents: clients, waitresses and cooks.<br>
 <img src="grandma.png" width="50"> <img src="waitress.png" width="50"> <img src="shopKeeper.png" width="50">
-- 4 moods for the clients: happy, neutral, annoyed and angry.
+- 4 moods for the clients: happy, neutral, annoyed and angry.<br>
 <img src="happyFace.png" width="50"> <img src="neutralFace.png" width="50"> <img src="sadFace.png" width="50"> <img src="angryFace.png" width="50">
 - An extra character for the tutorial.
 - 3 different screens: Main Menu, Scene and End Screen.
